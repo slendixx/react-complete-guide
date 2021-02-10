@@ -44,6 +44,16 @@ class App extends Component {
     });
   };
 
+  nameChangedHandler = (event) => {
+    this.setState({
+      persons: [
+        { name: "Esteban", age: 20 },
+        { name: event.target.value, age: 26 },
+        { name: "Ellie", age: 17 },
+      ],
+    });
+  };
+
   render() {
     return (
       <div className="App">
@@ -59,7 +69,7 @@ class App extends Component {
         <Person
           name={this.state.persons[1].name}
           age={this.state.persons[1].age}
-          clickHandler={this.switchNameHandler.bind(this, "Logan Paul")}
+          changedHandler={this.nameChangedHandler}
         >
           I have a pet animal.
           <Animal sound="Meow" age="3" />

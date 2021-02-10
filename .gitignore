@@ -1,7 +1,66 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+section-1/node_modules
+assignemnt-1/node_modules
+section-2/node_modules
+assignemnt-2/node_modules
+section-3/node_modules
+assignemnt-3/node_modules
+section-4/node_modules
+assignemnt-4/node_modules
+section-5/node_modules
+assignemnt-5/node_modules
+section-6/node_modules
+assignemnt-6/node_modules
+section-7/node_modules
+assignemnt-7/node_modules
+section-8/node_modules
+assignemnt-8/node_modules
+section-9/node_modules
+assignemnt-9/node_modules
+section-10/node_modules
+assignemnt-10/node_modules
+section-11/node_modules
+assignemnt-11/node_modules
+section-12/node_modules
+assignemnt-12/node_modules
+section-13/node_modules
+assignemnt-13/node_modules
+section-14/node_modules
+assignemnt-14/node_modules
+section-15/node_modules
+assignemnt-15/node_modules
+section-16/node_modules
+assignemnt-16/node_modules
+section-17/node_modules
+assignemnt-17/node_modules
+section-18/node_modules
+assignemnt-18/node_modules
+section-19/node_modules
+assignemnt-19/node_modules
+section-20/node_modules
+assignemnt-20/node_modules
+section-21/node_modules
+assignemnt-21/node_modules
+section-22/node_modules
+assignemnt-22/node_modules
+section-23/node_modules
+assignemnt-23/node_modules
+section-24/node_modules
+assignemnt-24/node_modules
+section-25/node_modules
+assignemnt-25/node_modules
+section-26/node_modules
+assignemnt-26/node_modules
+section-27/node_modules
+assignemnt-27/node_modules
+section-28/node_modules
+assignemnt-28/node_modules
+section-29/node_modules
+assignemnt-29/node_modules
+section-30/node_modules
+assignemnt-30/node_modules
 
 # testing
 /coverage
