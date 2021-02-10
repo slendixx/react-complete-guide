@@ -1,6 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
+/node_modules
+/assignments/node_modules
 section-1/node_modules
 assignment-1/node_modules
 section-2/node_modules
